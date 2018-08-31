@@ -1,0 +1,14 @@
+{
+  "name": "lerna-demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.2.1"
+  }
+}
