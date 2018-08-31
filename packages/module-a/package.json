@@ -1,6 +1,6 @@
 {
   "name": "@minfive/module-a",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
   "license": "MIT",
   "dependencies": {
-    "@minfive/module-b": "^0.1.0",
+    "@minfive/module-b": "^0.1.2",
     "lodash": "^4.17.10"
   },
   "gitHead": "c7d89db51c2024458b65e478e3d2890fde6e03be"
